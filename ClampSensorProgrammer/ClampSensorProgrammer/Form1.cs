@@ -347,7 +347,7 @@ namespace ClampSensorProgrammer
             txtSerialNumber.Text = value;
         }
         /**************************************************************************************/
-        //
+        ///
         /**************************************************************************************/
         private void btnOpen_Click(object sender, EventArgs e)
         {
