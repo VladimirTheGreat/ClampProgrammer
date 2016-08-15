@@ -15,21 +15,14 @@ using System.IO.Ports;
 namespace ClampSensorProgrammer
 {
 <<<<<<< HEAD
-    //one more test
-=======
-    // test nr3
-    //test comment
->>>>>>> origin/master
-        // 1 2 3 ...
-        // 4 5 6 ...
-        // 7 8 9 ...
+// klhjh 
     public partial class Form1 : Form
     {
         private enum nqCommandType
         {
             get = 0x01,
             set = 0x02,
-            response = 0x80
+            response = 0x85
         };
         private enum nqCommands : byte
         {
