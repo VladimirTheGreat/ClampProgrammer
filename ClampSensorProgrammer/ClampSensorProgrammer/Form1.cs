@@ -21,6 +21,7 @@ namespace ClampSensorProgrammer
     //test comment
 >>>>>>> origin/master
         // 1 2 3 ...
+        // 4 5 6 ...
     public partial class Form1 : Form
     {
         private enum nqCommandType
