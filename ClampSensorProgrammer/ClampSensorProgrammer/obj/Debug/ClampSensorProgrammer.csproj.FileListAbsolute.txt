@@ -25,3 +25,6 @@ C:\Users\Vladimir\Dropbox\work\New folder\ClampSensorProgrammer\ClampSensorProgr
 C:\Users\Vladimir\Dropbox\work\New folder\ClampSensorProgrammer\ClampSensorProgrammer\obj\Debug\ClampSensorProgrammer.Form1.resources
 C:\Users\Vladimir\Dropbox\work\New folder\ClampSensorProgrammer\ClampSensorProgrammer\obj\Debug\ClampSensorProgrammer.Properties.Resources.resources
 C:\Users\Vladimir\Dropbox\work\New folder\ClampSensorProgrammer\ClampSensorProgrammer\obj\Debug\ClampSensorProgrammer.csproj.GenerateResource.Cache
+C:\Users\Vladimir\Desktop\ClampProgrammer\ClampSensorProgrammer\ClampSensorProgrammer\bin\Debug\ClampSensorProgrammer.exe.config
+C:\Users\Vladimir\Desktop\ClampProgrammer\ClampSensorProgrammer\ClampSensorProgrammer\obj\Debug\ClampSensorProgrammer.exe
+C:\Users\Vladimir\Desktop\ClampProgrammer\ClampSensorProgrammer\ClampSensorProgrammer\obj\Debug\ClampSensorProgrammer.pdb
