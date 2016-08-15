@@ -1,0 +1,27 @@
+F:\Projects\sensors\tools\ClampSensorProgrammer\ClampSensorProgrammer\bin\Debug\ClampSensorProgrammer.exe.config
+F:\Projects\sensors\tools\ClampSensorProgrammer\ClampSensorProgrammer\bin\Debug\ClampSensorProgrammer.exe
+F:\Projects\sensors\tools\ClampSensorProgrammer\ClampSensorProgrammer\bin\Debug\ClampSensorProgrammer.pdb
+F:\Projects\sensors\tools\ClampSensorProgrammer\ClampSensorProgrammer\obj\Debug\ClampSensorProgrammer.csprojResolveAssemblyReference.cache
+F:\Projects\sensors\tools\ClampSensorProgrammer\ClampSensorProgrammer\obj\Debug\ClampSensorProgrammer.Form1.resources
+F:\Projects\sensors\tools\ClampSensorProgrammer\ClampSensorProgrammer\obj\Debug\ClampSensorProgrammer.Properties.Resources.resources
+F:\Projects\sensors\tools\ClampSensorProgrammer\ClampSensorProgrammer\obj\Debug\ClampSensorProgrammer.csproj.GenerateResource.Cache
+F:\Projects\sensors\tools\ClampSensorProgrammer\ClampSensorProgrammer\obj\Debug\ClampSensorProgrammer.exe
+F:\Projects\sensors\tools\ClampSensorProgrammer\ClampSensorProgrammer\obj\Debug\ClampSensorProgrammer.pdb
+F:\Projects\sensors\Embedded-PcTools\ClampSensorProgrammer\ClampSensorProgrammer\bin\Debug\ClampSensorProgrammer.exe.config
+F:\Projects\sensors\Embedded-PcTools\ClampSensorProgrammer\ClampSensorProgrammer\obj\Debug\ClampSensorProgrammer.exe
+F:\Projects\sensors\Embedded-PcTools\ClampSensorProgrammer\ClampSensorProgrammer\obj\Debug\ClampSensorProgrammer.pdb
+F:\Projects\sensors\Embedded-PcTools\ClampSensorProgrammer\ClampSensorProgrammer\bin\Debug\ClampSensorProgrammer.exe
+F:\Projects\sensors\Embedded-PcTools\ClampSensorProgrammer\ClampSensorProgrammer\bin\Debug\ClampSensorProgrammer.pdb
+F:\Projects\sensors\Embedded-PcTools\ClampSensorProgrammer\ClampSensorProgrammer\obj\Debug\ClampSensorProgrammer.csprojResolveAssemblyReference.cache
+F:\Projects\sensors\Embedded-PcTools\ClampSensorProgrammer\ClampSensorProgrammer\obj\Debug\ClampSensorProgrammer.Form1.resources
+F:\Projects\sensors\Embedded-PcTools\ClampSensorProgrammer\ClampSensorProgrammer\obj\Debug\ClampSensorProgrammer.Properties.Resources.resources
+F:\Projects\sensors\Embedded-PcTools\ClampSensorProgrammer\ClampSensorProgrammer\obj\Debug\ClampSensorProgrammer.csproj.GenerateResource.Cache
+C:\Users\Vladimir\Dropbox\work\New folder\ClampSensorProgrammer\ClampSensorProgrammer\bin\Debug\ClampSensorProgrammer.exe.config
+C:\Users\Vladimir\Dropbox\work\New folder\ClampSensorProgrammer\ClampSensorProgrammer\obj\Debug\ClampSensorProgrammer.exe
+C:\Users\Vladimir\Dropbox\work\New folder\ClampSensorProgrammer\ClampSensorProgrammer\obj\Debug\ClampSensorProgrammer.pdb
+C:\Users\Vladimir\Dropbox\work\New folder\ClampSensorProgrammer\ClampSensorProgrammer\bin\Debug\ClampSensorProgrammer.exe
+C:\Users\Vladimir\Dropbox\work\New folder\ClampSensorProgrammer\ClampSensorProgrammer\bin\Debug\ClampSensorProgrammer.pdb
+C:\Users\Vladimir\Dropbox\work\New folder\ClampSensorProgrammer\ClampSensorProgrammer\obj\Debug\ClampSensorProgrammer.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Dropbox\work\New folder\ClampSensorProgrammer\ClampSensorProgrammer\obj\Debug\ClampSensorProgrammer.Form1.resources
+C:\Users\Vladimir\Dropbox\work\New folder\ClampSensorProgrammer\ClampSensorProgrammer\obj\Debug\ClampSensorProgrammer.Properties.Resources.resources
+C:\Users\Vladimir\Dropbox\work\New folder\ClampSensorProgrammer\ClampSensorProgrammer\obj\Debug\ClampSensorProgrammer.csproj.GenerateResource.Cache
