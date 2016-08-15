@@ -29,7 +29,7 @@ namespace ClampSensorProgrammer
         {
             get = 0x01,
             set = 0x02,
-            response = 0x80
+            response = 0x87
         };
         private enum nqCommands : byte
         {
