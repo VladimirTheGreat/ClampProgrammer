@@ -28,3 +28,6 @@ C:\Users\Vladimir\Dropbox\work\New folder\ClampSensorProgrammer\ClampSensorProgr
 C:\Users\Vladimir\Desktop\ClampProgrammer\ClampSensorProgrammer\ClampSensorProgrammer\bin\Debug\ClampSensorProgrammer.exe.config
 C:\Users\Vladimir\Desktop\ClampProgrammer\ClampSensorProgrammer\ClampSensorProgrammer\obj\Debug\ClampSensorProgrammer.exe
 C:\Users\Vladimir\Desktop\ClampProgrammer\ClampSensorProgrammer\ClampSensorProgrammer\obj\Debug\ClampSensorProgrammer.pdb
+C:\Users\Asus\Documents\GitHub\ClampProgrammer\ClampSensorProgrammer\ClampSensorProgrammer\bin\Debug\ClampSensorProgrammer.exe.config
+C:\Users\Asus\Documents\GitHub\ClampProgrammer\ClampSensorProgrammer\ClampSensorProgrammer\obj\Debug\ClampSensorProgrammer.exe
+C:\Users\Asus\Documents\GitHub\ClampProgrammer\ClampSensorProgrammer\ClampSensorProgrammer\obj\Debug\ClampSensorProgrammer.pdb

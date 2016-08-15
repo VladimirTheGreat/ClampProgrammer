@@ -14,6 +14,8 @@ using System.IO.Ports;
 
 namespace ClampSensorProgrammer
 {
+    // test nr3
+    //test comment
     public partial class Form1 : Form
     {
         private enum nqCommandType
