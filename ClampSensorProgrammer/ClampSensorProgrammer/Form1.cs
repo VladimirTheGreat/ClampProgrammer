@@ -44,7 +44,7 @@ namespace ClampSensorProgrammer
             factoryReset = 0x1E,
 
             deviceInfo = 0x20,
-
+// fgslef,gh
             config = 0x21,
 
             debug = 0xFD,
