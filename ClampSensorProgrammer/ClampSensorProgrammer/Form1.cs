@@ -95,7 +95,7 @@ namespace ClampSensorProgrammer
                         l2.Add(commPorts[i]);
                     }
                 }
-              //  l1.Sort();
+                l1.Sort();
                 l2.Sort();
                 comboComPorts.Items.AddRange(l1.ToArray());
                 comboComPorts.Items.AddRange(l2.ToArray());
